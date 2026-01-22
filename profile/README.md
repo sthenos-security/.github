@@ -10,4 +10,5 @@ Meanwhile, AI-powered attacks evolve faster than ever, shrinking the window to d
 
 *Currently in stealth mode. Interested in early access? [Contact us](mailto:adazzi@sthenosec.com).*
 
+
 *Sthenos (Σθένος) is the Ancient Greek word for "strength" or "might," often referring to powerful, forceful energy, and appears in mythology as Stheno, the eldest immortal Gorgon sister to Medusa, known for her ferocity.
