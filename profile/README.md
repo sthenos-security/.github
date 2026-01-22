@@ -9,3 +9,5 @@ Meanwhile, AI-powered attacks evolve faster than ever, shrinking the window to d
 **Sthenos Security adds reachability insight to both static and runtime analysis**, giving teams a clearer picture of what’s actually exploitable. This lets teams make confident, deterministic decisions—cutting through the noise and eliminating issues that were never exploitable in the first place.
 
 *Currently in stealth mode. Interested in early access? [Contact us](mailto:adazzi@sthenosec.com).*
+
+*Sthenos (Σθένος) is the Ancient Greek word for "strength" or "might," often referring to powerful, forceful energy, and appears in mythology as Stheno, the eldest immortal Gorgon sister to Medusa, known for her ferocity.
