@@ -6,7 +6,7 @@ Engineering teams are overwhelmed by the volume of security signals. Traditional
 
 Meanwhile, AI-powered attacks evolve faster than ever, shrinking the window to detect and respond.
 
-**Sthenos Security brings reachability intelligence to static and runtime analysis to determine what is truly exploitable. Powered by AI agents, Reachable performs deep code reachability analysis, automated triage, and remediation assistance. AI is key to cutting through security noise—reducing false positives, improving data quality, and enabling teams to make deterministic decisions about which vulnerabilities actually pose risk.
+**Sthenos Security brings reachability intelligence to static and runtime analysis to determine what is truly exploitable. Powered by AI agents, Reachable performs deep code reachability analysis, automated triage, and remediation assistance. AI is key to cutting through security noise—reducing false positives, improving data quality, and enabling teams to make deterministic decisions about which vulnerabilities actually pose risk.**
 
 *Interested in early access? [Contact us](mailto:info@sthenosec.com).*
 
