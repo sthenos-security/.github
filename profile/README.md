@@ -11,3 +11,9 @@ REACHABLE goes beyond pure reachability analysis. It validates whether exposure 
 Built for teams shipping with Claude Code, Codex, Cursor, OpenCode, and current SDLC/CI pipelines.
 
 Learn more at [sthenosec.com](https://sthenosec.com) or [contact us](mailto:info@sthenosec.com).
+
+---
+
+> *Σθένος* (Sthenos) is the Ancient Greek word for **strength** or **might**.
+> In mythology, **Stheno** is the eldest immortal Gorgon sister to Medusa,
+> known for her ferocity.
