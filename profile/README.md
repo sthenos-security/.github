@@ -12,8 +12,14 @@ Built for teams shipping with Claude Code, Codex, Cursor, OpenCode, and current 
 
 Learn more at [sthenosec.com](https://sthenosec.com) or [contact us](mailto:info@sthenosec.com).
 
+
 ---
 
 > *Σθένος* (Sthenos) is the Ancient Greek word for **strength** or **might**.
 > In mythology, **Stheno** is the eldest immortal Gorgon sister to Medusa,
 > known for her ferocity.
+
+---
+[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)
+
+
